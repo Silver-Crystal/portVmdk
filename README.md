@@ -31,7 +31,7 @@ The main sample that we will be taking and modifying wil be the .vmdk for CMPT29
 <details>
     <summary>Optional(might or might not affect the final outcome, preferably do install these)</summary>
     <!-- markdownlint-enable MD033 -->
-    -[HyperV](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V) (also check- installing (Hyper_V on non-Wi_n_11 Pr_o versions)[install/hyper_.md "installing hyper V on windows 11 home or other non pro versions"])
+    - [HyperV](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V) (also check- installing [Hyper_V on non-Wi_n_11 Pr_o versions](install/hyper_.md "installing hyper V on windows 11 home or other non pro versions") )
     <!-- markdownlint-disable MD033 -->
 </details>
 <!-- markdownlint-enable MD033 -->
