@@ -27,11 +27,10 @@ The main sample that we will be taking and modifying wil be the .vmdk for CMPT29
 - [CMPT295.vmdk](https://drive.google.com/drive/folders/1NtEAY5WizhVu7gosZEvyQgGE33o1sgi5 "https://drive.google.com/drive/folders/1NtEAY5WizhVu7gosZEvyQgGE33o1sgi5") Google Drive link to CMPT295 VM files (also provided in github repo)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install "https://learn.microsoft.com/en-us/windows/wsl/install") Installing WSL on Windows.
 
-<!-- markdownlint-disable MD033 -->
+
 <details>
     <summary>Optional(might or might not affect the final outcome, preferably do install these)</summary>
-    <!-- markdownlint-enable MD033 -->
-    - [HyperV](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V) (also check- installing [Hyper_V on non-Wi_n_11 Pr_o versions](install/hyper_.md "installing hyper V on windows 11 home or other non pro versions") )
-    <!-- markdownlint-disable MD033 -->
+    
+    - [HyperV](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V "https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V") also check- installing Hyper_V on non-Wi_n_11 Pr_o [versions](install/hyper_.md "installing hyper V on windows 11 home or other non pro versions") )
+    
 </details>
-<!-- markdownlint-enable MD033 -->
