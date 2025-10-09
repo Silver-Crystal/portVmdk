@@ -4,7 +4,7 @@ Porting a .vmdk (virtualbox) file for use in WSL
 # Content
 1. [Motivation](#motivation)
 2. [CMPT295](#cmpt295)
-    - [Requirements](requrements)
+    - [Requirements](requirements)
     - [Downloads](#downloads)
 
 # Motivation
@@ -13,7 +13,9 @@ The idea that in the end VMs are more or less 'emulators' and their 'emulation' 
 # CMPT295
 The main sample that we will be taking and modifying wil be the .vmdk for CMPT295 taught by Arrvindh Shriraman. Specifically the CMP295.vmdk. 
 
-## Requirements (Unconfirmed, could change from system to system and OS to OS) {#RequirementsId}
+## Requirements
+     [Forgot what the point of this was, shouldn't this and the downloads be one and the same]: #
+ (Unconfirmed, could change from system to system and OS to OS) 
 
 ## Downloads
 
