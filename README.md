@@ -23,4 +23,3 @@ The main sample that we will be taking and modifying wil be the .vmdk for CMPT29
     <summary>Optional(might or might not affect the final outcome, preferably do install these)</summary>
     -[HyperV](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/Install-Hyper-V) (also check- installing (Hyper_V on non-Wi_n_11 Pr_o versions)[])
 </details>
-After the file has been downloaded, we can go ahead and install [WSL]()
