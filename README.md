@@ -2,12 +2,12 @@
 Porting a .vmdk (virtualbox) file for use in WSL 
 
 # Content
-1. [Motivation](Motivation)
+1. [Motivation](MotivationLink)
 2. [CMPT295](CMPT295)
     - [Requirements](Requrements)
     - [Downloads](Downloads)
 
-# Motivation
+# Motivation {#MotivationLink}
 The idea that in the end VMs are more or less 'emulators' and their 'emulation' of linux systems of course takes time and a lot of resources. The resources that are allocated to a vm(in most cases) are bound to the vm when the vm is active, thus you lose some(or more) of your computing power in the host(unless are on linux and using qemu with a setup so that you are sharing the resources as needed)(or any other variant where you can share resources).
 
 # CMPT295
