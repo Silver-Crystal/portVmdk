@@ -181,11 +181,18 @@ If successful, you'll see:
 In PowerShell:
 
      wsl --manage CMPT295 --set-default-user vagrant;
+     
+Set CMPT295 as your default system for wsl(Optional):
 
+    wsl --setdefault CMPT295
+    
 Launch your new distro (PowerShell):
 
     wsl -d CMPT295 ;
 
+Or if you set it up as your default system you can also use:
+
+    wsl
 
 
 ## Uninstalling
@@ -193,3 +200,4 @@ To remove the distro you created, use the following command in PowerShell:
 
     wsl --unregister CMPT295 ;
 
+Followed by going and deleting the file(if you do not need it anymore) where you saved the system in [step 10](#10-import-into-a-working-wsl2) while following the [Instructions](#instructions).
