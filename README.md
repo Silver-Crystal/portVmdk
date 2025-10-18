@@ -180,7 +180,7 @@ If successful, you'll see:
 
 In PowerShell:
 
-    wsl --setdefaultuser vagrant --distribution CMPT295;
+     wsl --manage CMPT295 --set-default-user vagrant;
 
 Launch your new distro (PowerShell):
 
